@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/CyberBoyAyush/CyberBoyAyush/master/20201218_223512.jpg)
+
 ### 🙏 Pranam <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 ### About 🙋🏻‍♂️
@@ -24,8 +26,13 @@ Country = "🇮🇳"
 
 [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](https://cyberboyayush.in)
 
+## Follow Me🔥:
 
-## Follow on:
+<details>
+<summary>Follow Me On My Social Platform ✌️</summary>
+<br>
+Follow Me On:
+
 <p align="left">
 <a href="https://telegram.me/AyushBots"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-darkblue?style=for-the-badge&logo=telegram"></a>
 </p>
@@ -38,6 +45,8 @@ Country = "🇮🇳"
 <p align="left">
 <a href="https://instagram.com/CyberBoyAyush"><img src="https://img.shields.io/badge/Instagram-CyberBoyAyush-magenta?style=for-the-badge&logo=instagram"></a>
 </p>
+
+</details>
 
 ## Donate Me:
 [![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/ayushsharma.fam@idfcbank)
