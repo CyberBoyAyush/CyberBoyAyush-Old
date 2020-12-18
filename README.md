@@ -61,3 +61,6 @@ Follow Me On:
 
 <br />
 <br />
+
+## Github Trophy🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=CyberBoyAyush&theme=onedark)](https://github.com/CyberBoyAyush)
