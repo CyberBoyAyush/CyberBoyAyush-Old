@@ -14,9 +14,9 @@ Country = "🇮🇳"
 [![mailid badge](https://img.shields.io/badge/CyberBoyAyush-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/designs/multi.gif" width="300" height="300" />
-
 ## My Info <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
+
+<img align="right" alt="cmulay | Read Book" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/designs/multi.gif" width="300" height="300" />
 
 [👋](https://cyberboyayush.in) I'm [CyberBoyAyush](https://telegram.me/CyberBoyAyush),
 
