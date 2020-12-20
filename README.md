@@ -14,18 +14,38 @@ Country = "🇮🇳"
 [![mailid badge](https://img.shields.io/badge/CyberBoyAyush-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
-- 😄I'm Still Learning Git & GitHub
-- 🥰Python Lover
-- ⚜️Most Of My Repositories Are For Telegram
+<img align="right" alt="cmulay | Read Book" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/designs/multi.gif" width="300" height="300" />
 
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
+## My Info <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
 
+[👋](https://cyberboyayush.in) I'm [CyberBoyAyush](https://telegram.me/CyberBoyAyush),
+
+- 🔭 I’m currently working with Python
+
+- 🌱 I’m currently studying
+
+- 👯 I’m looking to collaborate on project
+
+- 💬 Ask me about Python/PHP
+
+- 📫 How to reach me: [Ayush Sharma](https://telegram.me/CyberBoyAyush)
+
+- 💬 Mail Me : [Here](mailto:contact@cyberboyayush.in)
+
+## My GitHub Stats💛
+
+<details>
+<summary>My GitHub Stats💛</summary>
+<br>
+    
 ![CyberBoyAyush Git Stats](https://github-readme-stats.vercel.app/api?username=CyberBoyAyush&include_all_commits=true&count_private=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberBoyAyush&layout=compact&theme=radical)](https://github.com/CyberBoyAyush)
 
 [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](https://cyberboyayush.in)
 
+</details>
+    
 ## Follow Me🔥:
 
 <details>
