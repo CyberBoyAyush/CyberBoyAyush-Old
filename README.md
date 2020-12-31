@@ -100,11 +100,6 @@ Follow Me On:
 ## Github Trophy🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberBoyAyush&theme=onedark)](https://github.com/CyberBoyAyush)
 
-## Tweet
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 2020 I made over 666+ commits and 12 Pull Requests towards open-source! Check how your <a href="https://twitter.com/hashtag/GithubWrapped?src=hash&amp;ref_src=twsrc%5Etfw">#GithubWrapped</a> up in 2020 at <a href="https://t.co/McFYrHSk8R">https://t.co/McFYrHSk8R</a></p>&mdash; Ayush Sharma (@CyberBoyAyush) <a href="https://twitter.com/CyberBoyAyush/status/1344576622574272520?ref_src=twsrc%5Etfw">December 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
 </p>
