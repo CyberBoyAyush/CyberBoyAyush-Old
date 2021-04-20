@@ -100,6 +100,8 @@ Follow Me On:
 ## Github Trophy🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberBoyAyush&theme=onedark)](https://github.com/CyberBoyAyush)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberboyayush&" alt="Cyberboyayush" /></p>
+
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
 </p>
