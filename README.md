@@ -41,6 +41,9 @@
 <center>
 <a href="https://telegram.me/CyberBoyAyush"><img src="https://img.icons8.com/nolan/50/telegram-app.png"></a>
 </center>
+<center>
+<a href="https://linkedin.com/in/CyberBoyAyush"><img src="https://img.icons8.com/nolan/54/linkedin.png"></a>
+</center>
 </div>    
 
 ### 🙏 Pranam <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
@@ -109,6 +112,9 @@ Follow Me On:
 </p>
 <p align="left">
 <a href="https://instagram.com/CyberBoyAyush"><img src="https://img.shields.io/badge/Instagram-CyberBoyAyush-magenta?style=for-the-badge&logo=instagram"></a>
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/CyberBoyAyush"><img src="https://img.shields.io/badge/Linkedin-CyberBoyAyush-blue?style=for-the-badge&logo=Linkedin"></a>
 </p>
 
 </details>
