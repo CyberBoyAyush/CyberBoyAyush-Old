@@ -1,5 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/CyberBoyAyush/CyberBoyAyush/master/20201218_223512.jpg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Devloper+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Php%2C+Linux%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
