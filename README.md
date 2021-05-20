@@ -141,8 +141,6 @@ Follow Me On:
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-<br />
-<br />
 
 ## Github Trophy🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberBoyAyush&theme=onedark)](https://github.com/CyberBoyAyush)
