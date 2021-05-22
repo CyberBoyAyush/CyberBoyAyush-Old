@@ -91,6 +91,8 @@ Country = "🇮🇳"
     
 ![CyberBoyAyush Git Stats](https://github-readme-stats.vercel.app/api?username=CyberBoyAyush&include_all_commits=true&count_private=true&theme=highcontrast)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberboyayush&theme=chartreuse-dark&hide_border=True" alt="Cyberboyayush" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberBoyAyush&layout=compact&theme=radical)](https://github.com/CyberBoyAyush)
 
 [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](https://cyberboyayush.in)
@@ -144,8 +146,6 @@ Follow Me On:
 
 ## Github Trophy🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberBoyAyush&theme=onedark)](https://github.com/CyberBoyAyush)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberboyayush&theme=chartreuse-dark&hide_border=True" alt="Cyberboyayush" /></p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
