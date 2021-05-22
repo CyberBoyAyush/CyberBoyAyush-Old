@@ -79,10 +79,10 @@ Country = "🇮🇳"
 
 - 👯 Join Telegram Channel : [Here](https://t.me/ayushbots)
 
-## My GitHub Stats💛
+## My GitHub Stats, Streak and Trophy💛
 
 <details>
-<summary>My GitHub Stats, Streak and Trophy💛</summary>
+<summary>Click Here❤️</summary>
 <br>
     
 ![CyberBoyAyush Git Stats](https://github-readme-stats.vercel.app/api?username=CyberBoyAyush&include_all_commits=true&count_private=true&theme=highcontrast)
