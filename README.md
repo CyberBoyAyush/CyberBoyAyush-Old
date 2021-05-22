@@ -55,10 +55,6 @@ who_i_am = ['Coding = ❣️']
 Age = "19"
 Country = "🇮🇳"
 ```
-##### Contact Me:
-[![telegram badge](https://img.shields.io/badge/@CyberBoyAyush-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/CyberBoyAyush)
-[![telegram badge](https://img.shields.io/badge/@CyberBoyAyush-30302f?style=for-the-badge&logo=telegram)](https://t.me/CyberBoyAyush)
-[![mailid badge](https://img.shields.io/badge/CyberBoyAyush-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
 ## My Info <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
