@@ -44,6 +44,10 @@
 <center>
 <a href="https://linkedin.com/in/CyberBoyAyush"><img src="https://img.icons8.com/nolan/54/linkedin.png"></a>
 </center>
+<br>
+<br>
+<a href="https://cyberboyayush.in/"><img src="https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=Opsgenie&logoColor=white"></a>
+</center>
 </div>    
 
 ### 🙏 Pranam <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
@@ -92,8 +96,6 @@ Country = "🇮🇳"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberBoyAyush&layout=compact&theme=radical)](https://github.com/CyberBoyAyush)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberBoyAyush&theme=onedark)](https://github.com/CyberBoyAyush)
-
-[![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](https://cyberboyayush.in)
 
 </details>
     
