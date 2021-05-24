@@ -35,16 +35,16 @@
 <div align="center">
 <h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h3>
 <center>
-<a href="https://twitter.com/cyberboyayush"><img src="https://img.icons8.com/nolan/50/twitter.png"></a>
+<a href="https://twitter.com/cyberboyayush"><img src="https://img.icons8.com/fluent/50/000000/twitter.png"></a>
 </center> 
 <center>
 <a href="mailto:contact@cyberboyayush.in"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
 </center>
 <center>
-<a href="https://telegram.me/CyberBoyAyush"><img src="https://img.icons8.com/nolan/50/telegram-app.png"></a>
+<a href="https://telegram.me/CyberBoyAyush"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
 </center>
 <center>
-<a href="https://linkedin.com/in/CyberBoyAyush"><img src="https://img.icons8.com/nolan/54/linkedin.png"></a>
+<a href="https://linkedin.com/in/CyberBoyAyush"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png"></a>
 </center>
 <br>
 <br>
