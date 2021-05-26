@@ -61,6 +61,12 @@ who_i_am = ['Coding = ❣️']
 Age = "19"
 Country = "🇮🇳"
 ```
+
+```python
+me = "Coding" 
+status = "Do Not Disturb!" 
+print (f"{me}, Please {status}")
+```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
 ## My Info <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
