@@ -65,7 +65,7 @@ Country = "🇮🇳"
 ```python
 me = "Coding" 
 status = "Do Not Disturb!" 
-print (f"{me}, Please {status}")
+print(f"{me}, Please {status}")
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
