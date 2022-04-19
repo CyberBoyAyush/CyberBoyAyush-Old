@@ -121,7 +121,7 @@ Follow Me On:
 <a href="https://github.com/CyberBoyAyush"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/CyberBoyAyush"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?style=for-the-badge&logo=twitter"></a>
+<a href="https://twitter.com/AyushCodz"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?style=for-the-badge&logo=twitter"></a>
 </p>
 <p align="left">
 <a href="https://instagram.com/CyberBoyAyush"><img src="https://img.shields.io/badge/Instagram-CyberBoyAyush-magenta?style=for-the-badge&logo=instagram"></a>
@@ -135,7 +135,7 @@ Follow Me On:
 ## Donate Me:
 [![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/ayushsharma.fam@idfcbank)
 
-### Languages and Tools I Love❤️
+### Languages and Tools I Use And Love❤️
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-%2314854C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -150,6 +150,8 @@ Follow Me On:
 <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 
 <p align="center">
