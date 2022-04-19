@@ -85,7 +85,7 @@ print(f"{me}, Please {status}")
 
 - 📫 How to reach me: [Ayush Sharma](https://telegram.me/CyberBoyAyush)
 
-- 📫 Reach Me On Twitter: [CyberBoyAyush](https://twitter.com/CyberBoyAyush) 
+- 📫 Reach Me On Twitter: [CyberBoyAyush](https://twitter.com/AyushCodz) 
 
 - 💬 Mail Me : [Here](mailto:contact@cyberboyayush.in)
 
