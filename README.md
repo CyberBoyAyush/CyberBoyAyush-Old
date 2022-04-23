@@ -133,7 +133,7 @@ Follow Me On:
 </details>
 
 ## Donate Me:
-[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/ayushsharma.fam@idfcbank)
+[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.ml/ayushsharma2424@ybl)
 
 ### Languages and Tools I Use And Love❤️
 <p align="center">
