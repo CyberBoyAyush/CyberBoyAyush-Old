@@ -1,7 +1,7 @@
 [![alt text](https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/Copy%20of%20CyberBoyAyush%20Banner%20HD(1).png)](https://cyberboyayush.in/me)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Php%2C+Linux%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=I+am+a+Student%2C+Developer%2C+Coder+and+Love+to+Connect+With+Peoples+%E2%9D%A4%EF%B8%8F">
 </p>
 
 <div align="center">
@@ -58,7 +58,7 @@
 ```python
 Name = "Cyber Boy Ayush"
 who_i_am = ['Coding = ❣️']
-Age = "19"
+Age = "18"
 Country = "🇮🇳"
 ```
 
@@ -75,13 +75,13 @@ print(f"{me}, Please {status}")
 
 [👋](https://cyberboyayush.in) I'm [CyberBoyAyush](https://telegram.me/CyberBoyAyush),
 
-- 🔭 I’m currently working with Python
+- 🔭 I’m Currently Working On My Life 
 
-- 🌱 I’m currently studying
+- 🌱 I’m Currently Studying
 
-- 👯 I’m looking to collaborate on project
+- 👯 I’m Looking To Collaborate On Projects
 
-- 💬 Ask me about Python/PHP
+- 💬 Ask me about Web Dev/Python
 
 - 📫 How to reach me: [Ayush Sharma](https://telegram.me/CyberBoyAyush)
 
@@ -113,10 +113,6 @@ print(f"{me}, Please {status}")
 <summary>Follow Me On My Social Platform ✌️</summary>
 <br>
 Follow Me On:
-
-<p align="left">
-<a href="https://telegram.me/AyushBots"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-darkblue?style=for-the-badge&logo=telegram"></a>
-</p>
 <p align="left">
 <a href="https://github.com/CyberBoyAyush"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
@@ -138,15 +134,15 @@ Follow Me On:
 ### Languages and Tools I Use And Love❤️
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-%2314854C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/React-%2320C4CB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/Javascript-faff00.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/Javascript-faff00.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="React" src="https://img.shields.io/badge/React-%2320C4CB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="C Lang" src ="https://img.shields.io/badge/C Lang-red.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-%2314854C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
