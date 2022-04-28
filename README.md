@@ -138,7 +138,9 @@ Follow Me On:
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-faff00.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="React" src="https://img.shields.io/badge/React-%2320C4CB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="Next Js" src="https://img.shields.io/badge/Next.JS-000000.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Node JS" src="https://img.shields.io/badge/Node Js-%2300f.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="C Lang" src ="https://img.shields.io/badge/C Lang-red.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-%2314854C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
