@@ -71,8 +71,6 @@ print(f"{me}, Please {status}")
 
 ## My Info <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/designs/multi.gif" width="300" height="300" />
-
 [👋](https://cyberboyayush.in) I'm [CyberBoyAyush](https://telegram.me/CyberBoyAyush),
 
 - 🔭 I’m Currently Working On My Life 
