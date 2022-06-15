@@ -52,7 +52,7 @@
 </center>
 </div>    
 
-### 🙏 Pranam <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
+### 🙏 Pranam
 
 ### About 🙋🏻‍♂️
 ```python
@@ -69,7 +69,7 @@ print(f"{me}, Please {status}")
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
-## My Info <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
+## My Info 
 
 [👋](https://cyberboyayush.in) I'm [CyberBoyAyush](https://telegram.me/CyberBoyAyush),
 
